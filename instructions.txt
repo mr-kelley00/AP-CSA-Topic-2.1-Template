@@ -1,0 +1,9 @@
+AP Computer Science A -- Topic 2.1 -- Objects -- Instances of Classes. 
+
+Write Java code that creates two classes:  ClassExample0 and ClassExample1.
+Each class should have at least two different ATTRIBUTES assigned to it. 
+You do not need to write any methods for the classes. 
+
+Write Java code that creates an object of each class. 
+
+
